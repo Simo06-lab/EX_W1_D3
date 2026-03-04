@@ -1,0 +1,64 @@
+header {
+  text-align: center;
+}
+hr {
+  border: none;
+  border-top: 2px solid #d4aa70;
+}
+main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+  margin-top: 90px;
+  text-align: center;
+}
+.img_focaccia {
+  border-radius: 20px;
+  width: 100%;
+}
+.sallyvegas {
+  text-align: center;
+  color: #999;
+}
+.featured {
+  border: none;
+  border-left: 2px solid #d4aa70;
+  padding-left: 25px;
+}
+.SIMPLY_FABULOUS {
+  font-size: 20px;
+  color: #1a5c4a;
+  letter-spacing: 0.03em;
+}
+
+.SIMPLY_FABULOUS b {
+  letter-spacing: 0.05em;
+}
+.fr_cranberry {
+  font-size: 14px;
+  color: #2e7d6e;
+  text-decoration: underline;
+}
+
+.fr_cranberry span {
+  color: #c8472b;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+}
+.line {
+  border: none;
+  border-top: 2px solid #6dffa5;
+}
+li {
+  margin: 10px;
+}
+.ord_list {
+  font-weight: bold;
+}
+.end {
+  margin-left: 50px;
+}
